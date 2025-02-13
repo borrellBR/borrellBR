@@ -6,7 +6,7 @@
   
 - 🧑‍💻 In my free time I like to complement my studies by coding projects for fun or learning through internet courses, at this moment I'm studing JavaScript through a Udemy Course.
   
-- 🤔 I’m looking for an oportunity in a business related with Web Development.
+- 🤔 I’m currently looking for an oportunity in a business related with Web Development.
   
 - 📫 How to reach me: 607 75 80 64 || ignacioborrellr@gmail.com
   
