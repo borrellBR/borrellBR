@@ -4,7 +4,7 @@
   
 - 👨‍🎓 At this time I'm not working on any personal projects, as I'm focused on my studies.
   
-- 🧑‍💻 In my free time I like to complement my studies coding projects for fun or learning through internet courses, at this moment I'm studing JavaScript through a Udemy Course.
+- 🧑‍💻 In my free time I like to complement my studies by coding projects for fun or learning through internet courses, at this moment I'm studing JavaScript through a Udemy Course.
   
 - 🤔 I’m looking for an oportunity in a business related with Web Development.
   
